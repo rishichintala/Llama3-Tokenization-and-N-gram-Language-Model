@@ -8,6 +8,8 @@ Assignment-1
 import the environment.yml under our root assignment folder, and create and activate your environment via the setup_tutorial.ipynb.
 
 mamba env create -n cs5293-1 -f environment.yml
+
+
 mamba activate cs5293-1
 
 
