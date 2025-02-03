@@ -21,13 +21,13 @@ Make sure you are in src directory
 
 python ngram.py ../data/training.txt ../data/test.txt ../data/seeds.txt
 
-#### Output Files:
+### Output Files:
 
 ngram-prob.trace: Log probabilities for test sentences.
 
 ngram-gen.trace: Generated sentences for each seed.
 
-#### Known Issues
+### Known Issues
 
 Unseen Words/Bigrams: Logprob = undefined for unseen words/bigrams.
 
