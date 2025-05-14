@@ -1,4 +1,3 @@
-# TextAnalytics
 Assignment-1
 
 
