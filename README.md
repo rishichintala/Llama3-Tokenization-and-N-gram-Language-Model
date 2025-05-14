@@ -1,7 +1,3 @@
-Assignment-1
-
-
-
 ### for environment setup , i followed the following commands
 
 import the environment.yml under our root assignment folder, and create and activate your environment via the setup_tutorial.ipynb.
